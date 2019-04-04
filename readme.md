@@ -35,3 +35,19 @@
     * [Help 2](https://developer.mozilla.org/fr/docs/Web/HTML/Element/Form)
     * [Help 3](https://htmlcheatsheet.com/)
 * Voir mes anciennes créations
+`<form action="/ma-page-de-traitement" method="post">
+    <div>
+        <label for="name">Nom :</label>
+        <input type="text" id="name" name="user_name">
+    </div>
+    <div>
+        <label for="mail">e-mail :</label>
+        <input type="email" id="mail" name="user_mail">
+    </div>
+    <div>
+        <label for="msg">Message :</label>
+        <textarea id="msg" name="user_message"></textarea>
+    </div>
+</form>`
+
+## Fin _04/04/2019_
