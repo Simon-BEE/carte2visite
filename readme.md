@@ -29,7 +29,8 @@
 * **Email** *simonbee [at] welcome.fr*.
 
 ### Formulaire de contact
-* HTML cheat sheet pour les balises form etc...
-* [Help 1](https://developer.mozilla.org/fr/docs/Web/Guide/HTML/Formulaires/Mon_premier_formulaire_HTML)
-* [Help 2](https://developer.mozilla.org/fr/docs/Web/HTML/Element/Form)
-* [Help 3](https://htmlcheatsheet.com/)
+* HTML cheat sheet pour les balises form
+    * [Help 1](https://developer.mozilla.org/fr/docs/Web/Guide/HTML/Formulaires/Mon_premier_formulaire_HTML)
+    * [Help 2](https://developer.mozilla.org/fr/docs/Web/HTML/Element/Form)
+    * [Help 3](https://htmlcheatsheet.com/)
+* Voir mes anciennes créations
