@@ -1,0 +1,114 @@
+/* GENERAL */
+
+body {
+    background-color: #efefef;
+    font-family: 'Montserrat', 'Roboto', sans-serif;
+    color: #444;
+    margin: 0;
+    padding: 0;
+}
+
+.titreh2 {
+    color: #ffb749;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* HEADER */
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#titreh1 {
+    font-size: 2.5em;
+    display: block;
+    width: 100%;
+    background-color: #ffb749;
+    text-align: center;
+    margin: 0;
+    color: #444;
+}
+
+#noms {
+    color: #444;
+}
+
+#profile {
+    border-radius: 50%;
+    width: 70%;
+}
+
+/* DESCRIPTION */
+
+#description {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.paraf {
+    text-align: center;
+    padding: 0 1em;
+}
+
+/* CONTACT */
+
+#contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#name, #mail, #message {
+    border: none;
+    border-bottom: 1px solid #cfcfcf;
+    background-color: #efefef;
+    color: #cfcfcf;
+    font-family: sans-serif;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+
+#aside {
+    width: 30%;
+}
+
+#name, #mail {
+    width: 100%;
+}
+
+#message {
+    width: 50%;
+}
+
+button {
+    border-radius: 10%;
+    background-color: #ffb749;
+    border: 1px solid #cfcfcf;
+    color: #444;
+    width: 15%;
+}
+
+/* FOOTER */
+
+footer {
+    display: flex;
+    align-items: center;
+    background-color: #ffb749;
+    margin-top: 2em;
+    padding: 0.5em;
+    border-top-right-radius: 1em;
+    border-top-left-radius:  1em;
+}
