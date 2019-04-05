@@ -11,8 +11,8 @@
 - [ ] Mise à jour du ReadMe
 
 ## Maquettes
-![Maquette 01](/assets/img/maquette01.jpg)
-![Maquette 02](/assets/img/maquette02.jpg)
+![Maquette 01](assets/img/maquette01.jpg)
+![Maquette 02](assets/img/maquette02.jpg)
 
 
 ## Consignes
