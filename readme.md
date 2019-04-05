@@ -1,5 +1,20 @@
 # Carte de Visite
 
+## TODO
+- [x] Structure des dossiers
+- [x] Création du ReadMe / Recherche des ressources
+- [x] Création d'un dépot GIT
+- [x] Création de la maquette
+- [x] Découpage de la maquette
+- [x] Remplir le HTML
+- [x] Mise en forme par CSS
+- [ ] Mise à jour du ReadMe
+
+## Maquettes
+![Maquette 01](/assets/img/maquette01.jpg)
+![Maquette 02](/assets/img/maquette02.jpg)
+
+
 ## Consignes
 * Nom et prénom
 * Description
@@ -35,7 +50,7 @@
     * [Help 2](https://developer.mozilla.org/fr/docs/Web/HTML/Element/Form)
     * [Help 3](https://htmlcheatsheet.com/)
 * Voir mes anciennes créations
-`<form action="/ma-page-de-traitement" method="post">
+``<form action="/ma-page-de-traitement" method="post">
     <div>
         <label for="name">Nom :</label>
         <input type="text" id="name" name="user_name">
@@ -48,6 +63,7 @@
         <label for="msg">Message :</label>
         <textarea id="msg" name="user_message"></textarea>
     </div>
-</form>`
+</form>``
 
-## Fin _04/04/2019_
+
+## Fin *04/04/2019* / *05/04/2019*
