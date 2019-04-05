@@ -8,12 +8,11 @@
 - [x] Découpage de la maquette
 - [x] Remplir le HTML
 - [x] Mise en forme par CSS
-- [ ] Mise à jour du ReadMe
+- [x] Mise à jour du ReadMe
 
 ## Maquettes
-![Maquette 01](https://github.com/Simon-BEE/carte2visite/tree/master/assets/img/maquette01.jpg)
-![Maquette 02](https://github.com/Simon-BEE/carte2visite/tree/master/assets/img/maquette02.jpg)
-
+![Maquette 01](assets/img/maquette01.JPG)
+![Maquette 02](assets/img/maquette02.JPG)
 
 ## Consignes
 * Nom et prénom
